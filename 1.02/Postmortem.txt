@@ -1,0 +1,14 @@
+What was the purpose of your program?
+My program interacts with the user and explains an application of computational thinking.
+
+How could your program be useful in the real world?
+It can explain an application of computational thinking.
+
+What is a problem you ran into, and how did you fix it?
+I initially used the "input" function, however "input" essentially evaluates the result of "raw_input". I switched to "raw_input" and now my program works.
+
+Describe one thing you would do differently the next time you write a program.
+I will make my program more interactive and more feature-packed.
+
+How could your program be generalized and useful in other areas?
+My program could be generalized and applied in any area in which an explanation for a topic is required.
