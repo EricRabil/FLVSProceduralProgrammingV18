@@ -1,0 +1,19 @@
+START
+    Ask what their name is
+
+    Greet them
+
+    Ask if they are pre-registered to vote
+
+        If they're pre-registered to vote, goto goodbye
+
+    Ask their age
+
+    Ask what voting means to them
+
+    Tell them when they will be able to register to vote
+
+    Reinforce the fact that voting is important
+
+    Send goodbye
+END

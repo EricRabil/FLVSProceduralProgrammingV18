@@ -1,0 +1,1 @@
+print(len("The length of this string"))
