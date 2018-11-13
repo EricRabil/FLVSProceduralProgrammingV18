@@ -1,0 +1,14 @@
+What was the purpose of your program?
+My program is designed to interact with high-school-aged students and discuss the importance of voting.
+
+How could your program be useful in the real world?
+My program can encourage young adults to get involved in politics and voting.
+
+What is a problem you ran into, and how did you fix it?
+I forgot to convert my integer to a string before concatenating it to a string. I wrapped the integer reference with str().
+
+Describe one thing you would do differently the next time you write a program.
+I would write a chat program that uses AI.
+
+How could your program be generalized and useful in other areas?
+My program can be repurposed to discuss any important responsibility that is age-restricted.
