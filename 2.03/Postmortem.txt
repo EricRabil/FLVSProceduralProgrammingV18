@@ -1,0 +1,14 @@
+What was the purpose of your program?
+My program interacts with a consumer and helps them determine the optimal product.
+
+How could your program be useful in the real world?
+My program can be used to help a store's consumers engage in their products.
+
+What is a problem you ran into, and how did you fix it?
+I could not figure out how to sort my list, so I googled it and can now sort my list.
+
+Describe one thing you would do differently the next time you write a program.
+I would connect a program like those to an external API to do the computations not on the client machine.
+
+How could your program be generalized and useful in other areas?
+My program could be generalized to boost engagement with any e-commerce platform.

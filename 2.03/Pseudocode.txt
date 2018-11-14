@@ -1,0 +1,7 @@
+START
+    Ask the maximum willing to be spent
+
+    Determine the best product in that price range
+
+    Print the determined product alongside the additional amount of money required to be spent for a free gift
+END
