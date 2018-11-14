@@ -1,7 +1,15 @@
-name = raw_input("Hello! What's your name? ")
+"""Algorithms.py: Discusses with the user the importance of computational thinking"""
 
-print "Hi, " + name + "!"
+__author__  = "Eric Rabil"
+__date__    = "10/14/2018"
 
-print "Computational thinking consists of algorithms and breaking down data into its components"
+def main():
+    name = input("Hello! What's your name? ")
 
-print "Bye, " + name + "!"
+    print("Hi, " + name + "!")
+
+    print("Computational thinking consists of algorithms and breaking down data into its components")
+
+    print("Bye, " + name + "!")
+
+main()
